@@ -70,10 +70,16 @@ p {
     align-items: center;
 }
 
-.footer {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+.grid-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    row-gap: 10px;
+    column-gap: 10px;
+}
+
+.grid-item {
+    margin: 0;
+    padding: 0;
 }
 
 /* Mediaquery classes */
