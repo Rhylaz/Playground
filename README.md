@@ -1,2 +1,2 @@
 ﻿# Playground
-<a href="/playground.html">Playground</a>
+<a href="./playground.html">Playground</a>
